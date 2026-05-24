@@ -12,28 +12,6 @@
 
 ###
 
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mikhael-agung&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mikhael-agung/Mikhael-agung/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Mikhael-agung/Mikhael-agung/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mikhael-agung/Mikhael-agung/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mikhael-agung/Mikhael-agung/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mikhael-agung/Mikhael-agung/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mikhael-Agung&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   </div>
